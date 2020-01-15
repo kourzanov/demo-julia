@@ -26,7 +26,7 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 DistributedArrays = "aaf54ef3-cdf8-58ed-94cc-d582ad619b94"
 Codecs = "19ecbf4d-ef7c-5e4b-b54a-0a0ff23c5aed"
 Compose = "a81c6b42-2e10-5240-aca2-a61377ecd94b"
-Reactive = "a223df75-4e93-5b7c-acf9-bdd599c0f4de"
+#Reactive = "a223df75-4e93-5b7c-acf9-bdd599c0f4de"
 
 [compat]
 julia = "=1.2.0"
